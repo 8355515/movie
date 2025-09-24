@@ -1,0 +1,1 @@
+import Layout from '../components/Layout'; export default function Home() { return <Layout><div className="p-6"><h1 className="text-3xl font-bold">首页</h1></div></Layout> }
