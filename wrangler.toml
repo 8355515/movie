@@ -1,0 +1,8 @@
+name = "movie-aggregator"
+main = ".vercel/output/static/_worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+JWT_SECRET = "supersecret"
+UPSTASH_REDIS_REST_URL = ""
+UPSTASH_REDIS_REST_TOKEN = ""
